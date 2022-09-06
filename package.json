@@ -1,0 +1,17 @@
+{
+  "name": "@suchipi/is",
+  "version": "1.0.0",
+  "description": "Functions for testing the types of JS values",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "keywords": [
+    "type",
+    "instanceof",
+    "typeof"
+  ],
+  "author": "Lily Skye <me@suchipi.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.8.2"
+  }
+}
