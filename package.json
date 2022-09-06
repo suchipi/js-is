@@ -11,6 +11,9 @@
   ],
   "author": "Lily Skye <me@suchipi.com>",
   "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
   "devDependencies": {
     "typescript": "^4.8.2"
   }
